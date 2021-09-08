@@ -1,9 +1,12 @@
 import styles from "./Layout.module.css";
 
 export default function Layout({ title, desc, urlBg, colorBg }) {
-  const image = { backgroundColor: colorBg } && {
-    backgroundImage: "url(" + urlBg + ")",
-  };
+  const image = colorBg
+    ? { backgroundColor: colorBg }
+    : {
+        backgroundImage: "url(" + urlBg + ")",
+      };
+  console.log(image);
   return (
     <section className={styles.root} style={image}>
       <div className={styles.wrapper}>
