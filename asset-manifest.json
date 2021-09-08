@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/pocemon-game/static/css/main.14507795.chunk.css",
-    "main.js": "/pocemon-game/static/js/main.0518a006.chunk.js",
-    "main.js.map": "/pocemon-game/static/js/main.0518a006.chunk.js.map",
-    "runtime-main.js": "/pocemon-game/static/js/runtime-main.c34692e6.js",
-    "runtime-main.js.map": "/pocemon-game/static/js/runtime-main.c34692e6.js.map",
-    "static/js/2.4a85d8b9.chunk.js": "/pocemon-game/static/js/2.4a85d8b9.chunk.js",
-    "static/js/2.4a85d8b9.chunk.js.map": "/pocemon-game/static/js/2.4a85d8b9.chunk.js.map",
-    "static/js/3.36f2cef0.chunk.js": "/pocemon-game/static/js/3.36f2cef0.chunk.js",
-    "static/js/3.36f2cef0.chunk.js.map": "/pocemon-game/static/js/3.36f2cef0.chunk.js.map",
+    "main.css": "/pocemon-game/static/css/main.0f672075.chunk.css",
+    "main.js": "/pocemon-game/static/js/main.f2b89a02.chunk.js",
+    "main.js.map": "/pocemon-game/static/js/main.f2b89a02.chunk.js.map",
+    "runtime-main.js": "/pocemon-game/static/js/runtime-main.f8d21155.js",
+    "runtime-main.js.map": "/pocemon-game/static/js/runtime-main.f8d21155.js.map",
+    "static/js/2.0fd29ed2.chunk.js": "/pocemon-game/static/js/2.0fd29ed2.chunk.js",
+    "static/js/2.0fd29ed2.chunk.js.map": "/pocemon-game/static/js/2.0fd29ed2.chunk.js.map",
     "index.html": "/pocemon-game/index.html",
-    "static/css/main.14507795.chunk.css.map": "/pocemon-game/static/css/main.14507795.chunk.css.map",
-    "static/js/2.4a85d8b9.chunk.js.LICENSE.txt": "/pocemon-game/static/js/2.4a85d8b9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pocemon-game/static/media/logo.6ce24c58.svg"
+    "static/css/main.0f672075.chunk.css.map": "/pocemon-game/static/css/main.0f672075.chunk.css.map",
+    "static/js/2.0fd29ed2.chunk.js.LICENSE.txt": "/pocemon-game/static/js/2.0fd29ed2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c34692e6.js",
-    "static/js/2.4a85d8b9.chunk.js",
-    "static/css/main.14507795.chunk.css",
-    "static/js/main.0518a006.chunk.js"
+    "static/js/runtime-main.f8d21155.js",
+    "static/js/2.0fd29ed2.chunk.js",
+    "static/css/main.0f672075.chunk.css",
+    "static/js/main.f2b89a02.chunk.js"
   ]
 }
