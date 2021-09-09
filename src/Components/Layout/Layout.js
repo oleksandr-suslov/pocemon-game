@@ -6,7 +6,6 @@ export default function Layout({ title, desc, urlBg, colorBg }) {
     : {
         backgroundImage: "url(" + urlBg + ")",
       };
-  console.log(image);
   return (
     <section className={styles.root} style={image}>
       <div className={styles.wrapper}>

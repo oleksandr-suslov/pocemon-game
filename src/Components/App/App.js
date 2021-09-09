@@ -10,10 +10,10 @@ function App() {
   const colorBg = "#e2e2e2";
   return (
     <div className="App">
-      <Header title descr />
-      <Layout title descr urlBg={urlBg} />
-      <Layout title descr colorBg={colorBg} />
-      <Layout title descr urlBg={urlBg} />
+      <Header title="This is title" descr="This is Description!" />
+      <Layout urlBg={urlBg} />
+      <Layout colorBg={colorBg} />
+      <Layout urlBg={urlBg} />
       <Footer />
     </div>
   );
